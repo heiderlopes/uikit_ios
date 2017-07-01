@@ -14,6 +14,7 @@
 		AC66D4BE1F07D21D006FCD6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC66D4BC1F07D21D006FCD6B /* LaunchScreen.storyboard */; };
 		AC66D4C91F07D21D006FCD6B /* UIKITSWIFTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC66D4C81F07D21D006FCD6B /* UIKITSWIFTTests.swift */; };
 		AC66D4D41F07D21D006FCD6B /* UIKITSWIFTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC66D4D31F07D21D006FCD6B /* UIKITSWIFTUITests.swift */; };
+		AC66D4E21F07D93C006FCD6B /* carro_verde.png in Resources */ = {isa = PBXBuildFile; fileRef = AC66D4E11F07D93C006FCD6B /* carro_verde.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AC66D4CF1F07D21D006FCD6B /* UIKITSWIFTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIKITSWIFTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC66D4D31F07D21D006FCD6B /* UIKITSWIFTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKITSWIFTUITests.swift; sourceTree = "<group>"; };
 		AC66D4D51F07D21D006FCD6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC66D4E11F07D93C006FCD6B /* carro_verde.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carro_verde.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		AC66D4B21F07D21D006FCD6B /* UIKITSWIFT */ = {
 			isa = PBXGroup;
 			children = (
+				AC66D4E11F07D93C006FCD6B /* carro_verde.png */,
 				AC66D4B31F07D21D006FCD6B /* AppDelegate.swift */,
 				AC66D4B51F07D21D006FCD6B /* ViewController.swift */,
 				AC66D4B71F07D21D006FCD6B /* Main.storyboard */,
@@ -234,6 +237,7 @@
 			files = (
 				AC66D4BE1F07D21D006FCD6B /* LaunchScreen.storyboard in Resources */,
 				AC66D4BB1F07D21D006FCD6B /* Assets.xcassets in Resources */,
+				AC66D4E21F07D93C006FCD6B /* carro_verde.png in Resources */,
 				AC66D4B91F07D21D006FCD6B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
